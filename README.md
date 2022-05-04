@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nilanjana96
 - 👀 I’m interested in web development
-- 🌱 I’m currently building projects based on javascript to sharpen my skill.
+- 🌱 I’m currently building projects based on React, Node.js to sharpen my skill.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail id:nilanjana.maiti96@gmail.com
 
